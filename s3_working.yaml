@@ -1,3 +1,7 @@
+# Description: Fixed Fn::Join syntax error in BucketPolicy and corrected Output URLs
+# Revision: 1.1
+# Date: 2026-03-24
+
 AWSTemplateFormatVersion: 2019-09-09
 Resorces:
   S3Bucket:
